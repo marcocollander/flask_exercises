@@ -1,0 +1,20 @@
+.navbar-inverse {
+  background-color: rgb(67, 74, 69);
+  border-color: white;
+  color: white
+}
+
+.form-control {
+  width: 50%;
+  color: blue;
+}
+
+.btn-default {
+  color: brown;
+  background-color: aquamarine;
+  border-color: blueviolet;
+}
+
+.control-label {
+  color: darkblue;
+}
